@@ -7,3 +7,4 @@ x
 # Distribution / packaging
 .Python
 datasets/
+parquet/
